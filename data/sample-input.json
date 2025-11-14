@@ -1,0 +1,7 @@
+{
+  "startUrls": [
+    "https://shop.golfdigest.co.jp/item/12345",
+    "https://shop.golfdigest.co.jp/item/67890"
+  ],
+  "maxPages": 5
+}
